@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @AlayeParody
-- 👀 I’m interested in crypto currency 
-- 🌱 I’m currently learning Data Analysis 
-- 💞️ I’m looking to collaborate on mutual projects 
-- 📫 How to reach me (chigozieci@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Josi Spark
+- 👀 I’m interested in crypto currency and blockchain 
 
 <!---
 AlayeParody/AlayeParody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
